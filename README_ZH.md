@@ -55,7 +55,7 @@ contract Erc20Token is SamanERC20Token {
 
 ![image](./images/3.png)
 
-### 3.在[MySamanWallet](https://wallet.samanchain.com)中部署合约
+### 3.在[MySamanWallet](https://wallet.samandefi.com)中部署合约
 
 * 第一步：进入部署合约页面
 

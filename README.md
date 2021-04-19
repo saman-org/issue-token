@@ -54,7 +54,7 @@ E.g:
 
 ![image](./images/3.png)
 
-### 3.Deploy the contract in [MySamanWallet](https://wallet.samanchain.com)
+### 3.Deploy the contract in [MySamanWallet](https://wallet.samandefi.com)
 
 * Step 1: Enter the deployment contract page
 
